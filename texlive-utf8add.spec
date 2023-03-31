@@ -1,6 +1,6 @@
 Name:		texlive-utf8add
 Version:	61074
-Release:	1
+Release:	2
 Summary:	Additional support for UTF-8 encoded LaTeX input
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/utf8add
