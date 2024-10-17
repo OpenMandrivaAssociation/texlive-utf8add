@@ -3,7 +3,7 @@ Version:	61074
 Release:	2
 Summary:	Additional support for UTF-8 encoded LaTeX input
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/utf8add
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/utf8add
 License:	gpl3+
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/utf8add.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/utf8add.doc.r%{version}.tar.xz
